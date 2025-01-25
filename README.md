@@ -1,7 +1,7 @@
 ## build Y
 Get the latest open-source advances in Enginerring and technology.
 
-#### How to Publish Your Tech in Build Y
+### How to Publish Your Tech in Build Y
 
 To add your technology to **Build Y**, follow these simple steps:
 
