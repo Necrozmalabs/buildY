@@ -1,5 +1,5 @@
 ## Build Y
-Get the latest open-source advances in Enginerring and technology.
+Breakthroughs to Build the Remarkable
 
 ### How to Publish Your Tech in Build Y
 
