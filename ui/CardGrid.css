@@ -1,0 +1,60 @@
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    justify-content: space-between; /* Ensures even spacing between cards */
+    width: 100%;
+  }
+  
+  .image-container {
+  background-color: white;
+  padding: 10px; /* Optional: Add some padding to make the background stand out more */
+  border-radius: 8px; /* Optional: Round the corners of the image background */
+}
+
+  .card {
+    flex: 1 1 calc(30.333% - 16px); /* Each card takes up one-third of the row width */
+    margin: 8px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column; /* Makes sure title and image align vertically */
+  }
+  
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-image {
+    width: 100%;
+    height:250px; /* Keeps the image aspect ratio intact */
+    border-radius: 8px;
+    object-fit: cover; /* Ensures the image fills the area without distortion */
+    flex: 1;
+  }
+  
+  .card-info {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: start;
+    padding: 0 10px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 8px;
+    color: #ffffff;
+  }
+  
+  .card-link {
+    text-decoration: none;
+  }
+  
+  .card-link:hover {
+    text-decoration: none;
+  }
+  
