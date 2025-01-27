@@ -8,6 +8,7 @@
   
   .image-container {
   background-color: white;
+  max-width: 320px;
   padding: 10px; /* Optional: Add some padding to make the background stand out more */
   border-radius: 8px; /* Optional: Round the corners of the image background */
 }
@@ -39,6 +40,7 @@
   .card-info {
     margin-top: 10px;
     margin-bottom: 10px;
+    max-width: 300px;
     text-align: start;
     padding: 0 10px;
   }
