@@ -1,5 +1,5 @@
-## Build Y
-Breakthroughs to Build the Remarkable
+# Build Y - Breakthroughs to Build the Remarkable
+Created for Engineers and Scientists
 
 ### How to Publish Your Tech in Build Y
 
