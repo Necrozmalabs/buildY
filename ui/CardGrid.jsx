@@ -21,6 +21,13 @@ const Card = ({ gif, title, link }) => {
 const CardGrid = ({ tag }) => {
   console.log('Received tag:', tag);
 
+  const cards = [
+    {
+      gif: '.....',
+      title: 'Dyson Swarm around Mars as an Energy Source',
+      link: '/techs/dyson-swarm-around-mars-as-an-energy-source/',
+      tags: ['energy', 'inventions', 'space'],
+    },]
   
   
 
