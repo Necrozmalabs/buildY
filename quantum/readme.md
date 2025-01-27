@@ -1,3 +1,3 @@
-### Energy
+### Quantum
 
 This section in [Build Y](https://buildy.necrozmalabs.com/) contain latest advances and technologies in Quantum Field.
