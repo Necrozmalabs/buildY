@@ -2,7 +2,7 @@
 
 This section in [Build Y](https://buildy.necrozmalabs.com/) contain latest advances and technologies about Space.
 
-- [A.I Architecture to predict superstorms, solar storms](https://buildy.necrozmalabs.com/techs/ai-architecture-to-predict-superstorms-solar-storms/)  
+- [A.I Architecture to predict superstorms, solar storms](https://buildy.necrozmalabs.com/techs/ai-to-predict-superstorms-and-solar-storms/)  
 - [Lightsail propulsion for very high speed space travel](https://buildy.necrozmalabs.com/techs/lightsail-propulsion-for-very-high-speed-space-travel/)  
 - [Dyson Swarm as a form of Dyson Sphere](https://buildy.necrozmalabs.com/techs/dyson-swarm-as-a-form-of-dyson-sphere/)  
 - [Dyson Swarm around Mars as an Energy Source](https://buildy.necrozmalabs.com/techs/dyson-swarm-around-mars-as-an-energy-source/)  
